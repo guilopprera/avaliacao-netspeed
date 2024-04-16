@@ -1,0 +1,14 @@
+A) a = 1, b = 2, c = 3
+Todos os lados são diferentes, então é um Triângulo Escaleno.
+
+B) a = 3, b = 4, c = 5 
+Todos os lados são diferentes, então é um Triângulo Escaleno
+
+C) a = 2, b = 2, c = 4
+Dois lados são iguais (a = b), então é um Triângulo Isósceles
+
+D) a = 4, b = 4, c = 4
+Todos os lados são iguais, então é um Triângulo Equilátero
+
+E) a = 5, b = 3, c = 3
+Como uma das condições não é satisfeita, não é possível formar um triângulo.
